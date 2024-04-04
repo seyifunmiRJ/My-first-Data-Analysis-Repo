@@ -1,5 +1,5 @@
 # Project Name: Covid-19-Analysis-Report
-This dataset presents a detailed global analysis of COVID-19, spanning from January, 2020, to March, 2023. It includes information on confirmed cases, deaths, and recoveries. The data is further categorized by year, month, and day, providing a granular view of the progression of the pandemic in during this period.
+This dataset presents a detailed global analysis of COVID-19, spanning from January, 2020, to March, 2023. It includes information on confirmed cases, deaths, and recoveries. The data is further categorized by year, month, and day, providing a granular view of the progression of the pandemic during this period.
 
 ------
 # Project objective: Problem Satement

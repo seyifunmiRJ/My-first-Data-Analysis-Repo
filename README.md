@@ -40,6 +40,5 @@ Research and Development: Invest in research and development of therapeutics, tr
 
 Community Engagement: Engage communities through education, communication, and outreach programs to increase awareness of COVID-19 prevention measures and dispel misinformation. Foster community resilience and support networks to cope with the ongoing challenges of the pandemic.
 
-##Thank you.
 ----------------
-
+##Thank you.
